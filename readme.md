@@ -1,2 +1,1 @@
 Test text
-new line
